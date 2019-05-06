@@ -42,6 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Map.cs" />
+    <Compile Include="Models\Instant.cs" />
+    <Compile Include="Models\Measurement.cs" />
+    <Compile Include="Models\MeasurementType.cs" />
+    <Compile Include="Models\Sampling.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
